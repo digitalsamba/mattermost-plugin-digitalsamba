@@ -1,0 +1,14 @@
+{
+  "digitalsamba.start_meeting.default_meeting_topic": "DigitalSamba Meeting",
+  "digitalsamba.start_meeting.fallback_text": "Video Meeting started at [{meetingId}]({meetingUrl}).\n\n[Join Meeting]({meetingUrl})",
+  "digitalsamba.start_meeting.slack_attachment_text": "{meetingType}: [{meetingId}]({meetingUrl})\n\n[Join Meeting]({meetingUrl})",
+  "digitalsamba.start_meeting.meeting_id": "Meeting ID",
+  "digitalsamba.start_meeting.room_expires": "Room expires at: {expiryTime}",
+  "digitalsamba.ask.meeting_name_random_words": "Meeting name with random words",
+  "digitalsamba.ask.personal_meeting": "Personal meeting",
+  "digitalsamba.ask.channel_meeting": "Channel meeting",
+  "digitalsamba.ask.uuid_meeting": "Meeting name with UUID",
+  "digitalsamba.ask.title": "DigitalSamba Meeting Start",
+  "digitalsamba.ask.select_meeting_type": "Select type of meeting you want to start",
+  "digitalsamba.command.settings.current": "Current DigitalSamba Settings:\n* Naming Scheme: {namingScheme}\n* Embed Video: {embed}\n* Show Pre-join Page: {showPrejoin}"
+}
